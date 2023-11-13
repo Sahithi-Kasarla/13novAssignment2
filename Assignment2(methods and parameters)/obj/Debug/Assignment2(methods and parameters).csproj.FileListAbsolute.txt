@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\bin\Debug\Assignment2(methods and parameters).exe.config
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\bin\Debug\Assignment2(methods and parameters).exe
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\bin\Debug\Assignment2(methods and parameters).pdb
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\obj\Debug\Assignment2(methods and parameters).csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\obj\Debug\Assignment2(methods and parameters).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\obj\Debug\Assignment2(methods and parameters).exe
+C:\Users\Dell\source\Day 6\Assignment2(methods and parameters)\Assignment2(methods and parameters)\obj\Debug\Assignment2(methods and parameters).pdb
